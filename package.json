@@ -1,0 +1,15 @@
+{
+  "name": "@beardedtim/ennio",
+  "version": "0.0.0-ALPHA",
+  "description": "A way to orchestrate jobs across the network",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "type": "module",
+  "engines": {
+    "node": "^16.1"
+  },
+  "author": "Tim Roberts <timroberts@fastmail.org>",
+  "license": "MIT"
+}
